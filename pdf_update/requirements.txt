@@ -1,0 +1,7 @@
+streamlit
+ollama
+sentence-transformers
+chromadb
+duckduckgo-search
+PyPDF2
+pdfplumber
