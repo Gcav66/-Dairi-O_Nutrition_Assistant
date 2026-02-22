@@ -15,7 +15,7 @@ By the end of this workshop, you'll have created:
 
 - ✅ **AI-powered chatbot** that answers questions about uploaded documents
 - ✅ **RAG implementation** with vector search and semantic retrieval
-- ✅ **Google search integration** for current information
+- ✅ **Web search integration** for current information
 - ✅ **Professional web interface** using Streamlit
 - ✅ **Cloud-deployed application** that runs immediately
 - ✅ **Portfolio-ready code** you can customize and share
@@ -31,7 +31,6 @@ This workshop teaches you how modern AI systems actually work by building one yo
 ### Core Concepts
 - **RAG (Retrieval-Augmented Generation)** - How AI systems search and cite documents
 - **Vector embeddings** - How computers understand meaning
-- **Semantic search** - Finding information by concept, not just keywords
 - **Prompt engineering** - Writing effective AI instructions
 - **Cloud deployment** - Shipping real applications
 
@@ -251,7 +250,7 @@ This isn't prompt tips - this is **real AI engineering** made accessible.
 **Workshop Instructor:** Gus Cavanaugh
 
 - 💼 **LinkedIn:** [linkedin.com/in/gustafrcavanaugh](https://www.linkedin.com/in/gustafrcavanaugh/)
-- 📧 **Email:** Contact for workshop details and scheduling
+- 📧 **Email:gustafcavanaugh@gmail.com** Contact for workshop details and scheduling
 - 🎓 **Workshop Series:** Winston-Salem AI Literacy
 
 ### Want to Run This Workshop?
