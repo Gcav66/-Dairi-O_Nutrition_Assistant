@@ -55,7 +55,7 @@ This workshop teaches you how modern AI systems actually work by building one yo
 
 ### Step 1: Review the Workshop Slides
 
-📊 **[Open the Workshop Presentation](./AI_Chatbot_Workshop_Feb2026.pptx)**
+📊 **[Open the Workshop Presentation](AI_Chatbot_Workshop_Feb2026.pdf)**
 
 The slides walk you through:
 1. Workshop setup (API keys & Replit)
@@ -77,7 +77,7 @@ Each Replit project is ready to fork and run. Just:
 - Click the link in the slides
 - Fork the project
 - Add your Anthropic API key to Secrets
-- Click "Run"
+- Click "Run Chatbot"
 
 ### Step 3: Build Along with the Workshop
 
@@ -183,7 +183,6 @@ Comprehensive guides included:
 - **[REPLIT_HAIKU_SETUP.md](./REPLIT_HAIKU_SETUP.md)** - Complete cloud setup guide
 - **[TABLE_HANDLING_GUIDE.md](./TABLE_HANDLING_GUIDE.md)** - Why tables break RAG and how to fix it
 - **[CUSTOMIZATION_GUIDE.md](./CUSTOMIZATION_GUIDE.md)** - Transform generic to branded
-- **[PRESENTATION_IMPROVEMENTS_GUIDE.md](./PRESENTATION_IMPROVEMENTS_GUIDE.md)** - Teaching tips
 
 ---
 

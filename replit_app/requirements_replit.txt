@@ -1,0 +1,6 @@
+streamlit
+anthropic
+sentence-transformers
+chromadb
+duckduckgo-search
+PyPDF2
